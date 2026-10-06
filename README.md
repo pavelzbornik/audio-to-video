@@ -1,3 +1,6 @@
+> [!WARNING]
+> **No longer maintained (archived 2026-10).** Kept read-only for reference; for the maintained original see [ProfessorKazarinoff/audio-to-video](https://github.com/ProfessorKazarinoff/audio-to-video).
+
 # audio-to-video
 
 A Python project to convert a .mp3 audio file into a .mp4 video file and upload this file into Youtube.
